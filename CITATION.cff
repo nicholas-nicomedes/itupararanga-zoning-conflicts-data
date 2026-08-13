@@ -4,6 +4,8 @@ type: dataset
 
 title: "Geospatial dataset of normative zoning conflicts in the Itupararanga Environmental Protection Area, Brazil"
 
+doi: https://doi.org/10.5281/zenodo.21921498
+
 version: 1.0.0
 
 authors:
