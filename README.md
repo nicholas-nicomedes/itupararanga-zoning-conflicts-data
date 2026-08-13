@@ -4,6 +4,9 @@ This repository provides the geospatial datasets used and generated in the study
 
 > Gonçalves, B., Nicomedes, N. P., Nery, L. M., Oliveira, R. F., & Silva, D. C. C. (2026). Conflitos normativos entre Planos Diretores Municipais e Plano de Manejo de uma unidade de conservação: uma análise na Área de Proteção Ambiental de Itupararanga. *Finisterra*, 61(131), e42541. https://doi.org/10.18055/Finis42541
 
+Dataset DOI: https://doi.org/10.5281/zenodo.21921498
+v1.0.0
+
 ## Overview
 
 The dataset supports the spatial analysis of normative compatibility between the Management Plan (PM) of the Itupararanga Environmental Protection Area (APA), São Paulo State, Brazil, and the Municipal Master Plans (PDMs) of the municipalities located within the protected area.
