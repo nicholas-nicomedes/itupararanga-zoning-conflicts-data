@@ -51,7 +51,7 @@ Each spatial layer is provided separately as a ZIP archive containing the compon
 
 All spatial layers are also consolidated into a single GeoPackage:
 
-`itupararanga_zoning_conflicts_v1.0.gpkg`
+`itupararanga_zoning_conflicts_v1.1.gpkg`
 
 The GeoPackage format is recommended for users who wish to access all layers in a single geospatial database.
 
